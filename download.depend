@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1466507911 source:c:\users\wr\desktop\download\download.cpp
+	<stdio.h>
+	<windows.h>
+	<wininet.h>
+	<ctime>
+	<cstring>
+	<string>
+	<iostream>
+
