@@ -1,9 +1,11 @@
 # Hosts_update
 A tool to update new hosts by c++
 
-项目使用codeblocks编译，每次更新时将会上传新的CB项目文件，可运行程序以及提权文件*.exe.manifest
+项目使用codeblocks编译，每次更新时将会上传新的CB项目文件（包括*.cbp 以及 *.depend）、可运行程序*.exe、提权文件*.exe.manifest
 
 提权文件和可运行程序需要放在同一目录下。
+
+使用者可以只下载压缩包
 
 程序默认系统hosts文件在C:\Windows\System32\drivers\etc\下。
 
